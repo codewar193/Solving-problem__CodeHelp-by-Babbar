@@ -30,6 +30,48 @@ Adaptable sorting algorithms typically have different behavior depending on the 
 
 #### Some examples of adaptable sorting algorithms include Insertion Sort, Shell Sort, and Adaptive Merge Sort. These algorithms can exhibit better performance on partially sorted or nearly sorted input, making them suitable for scenarios where data tends to have some degree of order
 
+### Sorting Algorithm---->when we should use Scenario
+Selection Sort:	Small datasets or partially sorted arrays
+
+Bubble Sort: Small datasets or partially sorted arrays
+
+Insertion Sort:	Small datasets or partially sorted arrays
+
+Merge Sort:	Large datasets, stability requirement
+
+Quick Sort:	Large datasets, average-case efficiency
+
+Heap Sort: Large datasets, space efficiency
+
+Counting Sort: Integer datasets with limited range
+
+Radix Sort:Integer datasets with fixed number of digits
+
+
+
+### Sorting Algorithm---->Worst-Case Scenario
+Selection Sort:	Any dataset
+
+
+Bubble Sort:	Any dataset
+
+Insertion Sort:	Any dataset
+
+Merge Sort:	No worst-case scenario (always performs efficiently)
+
+Quick Sort:	Already sorted dataset or a dataset with many duplicate values
+
+Heap Sort:	No worst-case scenario (always performs efficiently)
+
+Counting Sort:Large range of input values or large dataset size
+
+Radix Sort:	Large number of digits in the input values or large dataset size
+
+![quicklatex com-b11e5efba44c3b345505fd02877ddb7d_l3](https://github.com/codewar193/Solving-problem__CodeHelp-by-Babbar/assets/90498811/09cbf1cc-bd9e-4969-819f-62d2a3918eee)
+
+
+![Complexity](https://github.com/codewar193/Solving-problem__CodeHelp-by-Babbar/assets/90498811/a054b6cc-d6f4-4a40-929e-12af122c061b)
+
 
 ### Q.Flowchat for Selection Sort:
 ![main-qimg-d7712812b63f5e9c99cc2cf39a2a29a9-lq](https://github.com/codewar193/Solving-problem__CodeHelp-by-Babbar/assets/90498811/af0bf842-9404-4149-92ff-70b670edefc9)
