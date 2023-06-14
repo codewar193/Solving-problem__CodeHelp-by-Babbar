@@ -1,9 +1,5 @@
 # Solving-problem__CodeHelp-by-Babbar
 
-## Q.Flowchat for Selection Sort:
-![main-qimg-d7712812b63f5e9c99cc2cf39a2a29a9-lq](https://github.com/codewar193/Solving-problem__CodeHelp-by-Babbar/assets/90498811/af0bf842-9404-4149-92ff-70b670edefc9)
-
-
 ### Q. What is stable algorithm?
 A stable algorithm, in the context of sorting, refers to an algorithm that preserves the relative order of elements with equal keys during the sorting process. In other words, if two elements have the same value, their order in the original sequence is maintained in the sorted sequence.
 
@@ -33,6 +29,10 @@ An adaptable sort, also known as an adaptive sort, is a sorting algorithm that c
 Adaptable sorting algorithms typically have different behavior depending on the input data. They may switch to a more efficient sorting strategy when encountering partially sorted data, reducing the number of comparisons and swaps needed to sort the elements.
 
 #### Some examples of adaptable sorting algorithms include Insertion Sort, Shell Sort, and Adaptive Merge Sort. These algorithms can exhibit better performance on partially sorted or nearly sorted input, making them suitable for scenarios where data tends to have some degree of order
+
+
+## Q.Flowchat for Selection Sort:
+![main-qimg-d7712812b63f5e9c99cc2cf39a2a29a9-lq](https://github.com/codewar193/Solving-problem__CodeHelp-by-Babbar/assets/90498811/af0bf842-9404-4149-92ff-70b670edefc9)
 
 
 
