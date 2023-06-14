@@ -27,6 +27,14 @@ An in-place sort is a sorting algorithm that rearranges the elements within the 
 Bubble sort is an example of an in-place sorting algorithm. It compares adjacent elements and swaps them if they are in the wrong order, gradually moving the larger elements towards the end of the array. Bubble sort operates in-place because it does not require additional memory to perform the sorting. The elements are sorted within the original array without creating a new copy.
 
 
+### Q.what is adaptable sort?
+An adaptable sort, also known as an adaptive sort, is a sorting algorithm that can take advantage of pre-existing order or partially sorted data to improve its performance. It adjusts its strategy based on the input data characteristics, which can lead to faster sorting times in certain cases.
+
+Adaptable sorting algorithms typically have different behavior depending on the input data. They may switch to a more efficient sorting strategy when encountering partially sorted data, reducing the number of comparisons and swaps needed to sort the elements.
+
+#### Some examples of adaptable sorting algorithms include Insertion Sort, Shell Sort, and Adaptive Merge Sort. These algorithms can exhibit better performance on partially sorted or nearly sorted input, making them suitable for scenarios where data tends to have some degree of order
+
+
 
 
 
