@@ -31,7 +31,7 @@ Adaptable sorting algorithms typically have different behavior depending on the 
 #### Some examples of adaptable sorting algorithms include Insertion Sort, Shell Sort, and Adaptive Merge Sort. These algorithms can exhibit better performance on partially sorted or nearly sorted input, making them suitable for scenarios where data tends to have some degree of order
 
 
-## Q.Flowchat for Selection Sort:
+### Q.Flowchat for Selection Sort:
 ![main-qimg-d7712812b63f5e9c99cc2cf39a2a29a9-lq](https://github.com/codewar193/Solving-problem__CodeHelp-by-Babbar/assets/90498811/af0bf842-9404-4149-92ff-70b670edefc9)
 
 
