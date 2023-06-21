@@ -73,6 +73,28 @@ Radix Sort:	Large number of digits in the input values or large dataset size
 ![Complexity](https://github.com/codewar193/Solving-problem__CodeHelp-by-Babbar/assets/90498811/a054b6cc-d6f4-4a40-929e-12af122c061b)
 
 
+### Q. Main Differences between String & char array:
+
+#### 1. Size and Flexibility:
+
+ Character arrays have a fixed size, determined at the time of declaration, while strings can dynamically adjust their size as needed.
+
+#### 2. Null Termination:
+
+ Character arrays require a null character ('\0') at the end to mark the end of the string, while strings handle the end of the string automatically.
+
+#### 3. Memory Management:
+
+ Strings manage memory allocation and deallocation automatically, whereas character arrays require manual memory management.
+
+#### 4. String Manipulation:
+
+ Strings provide a range of built-in functions for string manipulation, making it easier to perform operations like concatenation, substring extraction, etc. Character arrays require explicit coding to perform these operations.
+ 
+In summary, character arrays are more low-level and require manual memory management, while strings provide higher-level abstractions and convenient functions for string manipulation.
+
+
+
 ### Q.Flowchat for Selection Sort:
 ![main-qimg-d7712812b63f5e9c99cc2cf39a2a29a9-lq](https://github.com/codewar193/Solving-problem__CodeHelp-by-Babbar/assets/90498811/af0bf842-9404-4149-92ff-70b670edefc9)
 
