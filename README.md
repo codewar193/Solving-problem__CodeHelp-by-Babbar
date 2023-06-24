@@ -6,7 +6,6 @@ A stable algorithm, in the context of sorting, refers to an algorithm that prese
 #### Example:
 Merge Sort, Insertion Sort, Bubble Sort, and Binary Tree Sort etc.
 
-
 ### Q. What is stable algorithm?
 An unstable sorting algorithm is one in which the relative order of elements with equal keys may change during the sorting process. 
 #### Example:
