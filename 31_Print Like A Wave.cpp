@@ -2,7 +2,7 @@
 vector<int> wavePrint(vector<vector<int>> arr, int nRows, int mCols)
 {
     //Write your code here
-
+    //TC: O(m X n)
     vector<int> ans;
 
     for(int col =0 ;col<mCols;col++)
