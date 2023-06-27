@@ -14,7 +14,6 @@ QuickSort, Heap Sort, and Selection sort etc.
 ![in-place-sorting-algorithm](https://github.com/codewar193/Solving-problem__CodeHelp-by-Babbar/assets/90498811/8bcd5c4c-5e3c-40ee-8f2d-0c4b95eda4cc)
 
 
-
 ### Q.What is an in-place sort? Is bubble sort an in-place sort?
 
 An in-place sort is a sorting algorithm that rearranges the elements within the given array without requiring any additional memory or creating a new copy of the array. The sorting is performed directly on the input array itself.
