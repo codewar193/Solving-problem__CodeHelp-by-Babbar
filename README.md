@@ -2,7 +2,6 @@
 
 ### Q. What is stable algorithm?
 A stable algorithm, in the context of sorting, refers to an algorithm that preserves the relative order of elements with equal keys during the sorting process. In other words, if two elements have the same value, their order in the original sequence is maintained in the sorted sequence.
-
 #### Example:
 Merge Sort, Insertion Sort, Bubble Sort, and Binary Tree Sort etc.
 
